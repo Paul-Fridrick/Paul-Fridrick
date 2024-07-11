@@ -21,7 +21,6 @@
   
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="firebase" width="40" height="40"/> 
 <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="firebase" width="40" height="40"/>
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="git" width="40" height="40"/>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML#:~:text=HTML%20signifie%20%C2%AB%20HyperText%20Markup%20Language,page%20web%20et%20sa%20structure."> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="firebase" width="40" height="40"/>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="firebase" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
