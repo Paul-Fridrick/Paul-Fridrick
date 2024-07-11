@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently student at **<a href="https://www.epitech.eu">Epitech</a>**
 
-- ✨ Favorite language **Angular Js**
+- ✨ Favorite language **NodeJS**
 
 - 📫 How to reach me **pfridrick@gmail.com**
 
